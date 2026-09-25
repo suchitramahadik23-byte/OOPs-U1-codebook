@@ -4,7 +4,7 @@ AD2625
 
 SY-F
 
-OOPs
+Object oriented programming
 
 Unit-1
 
